@@ -1,2 +1,2 @@
-[Planina  <-- click to read this question](/https://open.kattis.com/problems/planina)
+[Planina](/https://open.kattis.com/problems/planina)[  <-- click to read this question]
 ![Planina.png](/Planina.png)
